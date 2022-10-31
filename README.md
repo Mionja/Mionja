@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mionja</h1>
  
-  <img src="https://komarev.com/ghpvc/?username=hey-mario&label=Profile%20views&color=0e75b6&style=flat](https://user-images.githubusercontent.com/105538414/199022955-7a7a7e87-b31b-4b04-8354-0d235110fe82.gif" alt="Mi" />
+  <img src="https://user-images.githubusercontent.com/105538414/199022955-7a7a7e87-b31b-4b04-8354-0d235110fe82.gif" alt="Mi" />
 
 
 <h3 align="center">A passionate backend developer from Madagascar</h3>
