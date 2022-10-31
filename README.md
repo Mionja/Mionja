@@ -1,4 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mionja</h1>
+![3Ayb](https://user-images.githubusercontent.com/105538414/199022731-28bbc62d-fb9d-4f6c-83cc-6378ad70f6ea.gif)
+
 <h3 align="center">A passionate backend developer from Madagascar</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mionja" alt="mionja" /></a> </p>
