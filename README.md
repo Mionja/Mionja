@@ -2,7 +2,7 @@
  
   <img src="https://user-images.githubusercontent.com/105538414/199022955-7a7a7e87-b31b-4b04-8354-0d235110fe82.gif" alt="Mi" />
 
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mionja&label=Profile%20views&color=0e75b6&style=flat" alt="mionja" /> </p>
 <h3 align="center">A passionate backend developer from Madagascar</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mionja" alt="mionja" /></a> </p>
