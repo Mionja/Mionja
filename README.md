@@ -46,4 +46,3 @@
  <a href="https://symfony.com" target="_blank" rel="noreferrer"> <img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40"/> </a>   </p>
   </th>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mionja&show_icons=true&locale=en&layout=compact" alt="mionja" /></p>
