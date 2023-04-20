@@ -8,11 +8,9 @@
 </p>
 
 <h3 align="center">Curious and passionate learner, tech enthusiast, always seeking knowledge.</h3>
-<br/>
-
 
 <br/>
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="center">Languages and Tools:</h3>
 <br/>
 <h5 align="left">Front End:</h3>
   <th>
