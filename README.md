@@ -1,4 +1,4 @@
-<h1 align="center">Hi 😉</h1>
+<h1 align="center">Hi  <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /></h1>
 <p align="center">  
   <img src="https://user-images.githubusercontent.com/105538414/199022955-7a7a7e87-b31b-4b04-8354-0d235110fe82.gif" alt="Mi" />
 </p>
@@ -9,12 +9,6 @@
 
 <h3 align="center">Curious and passionate learner, tech enthusiast, always seeking knowledge.</h3>
 <br/>
-
-- 🔭 I’m currently working on **an e-commerce project**
-
-- 🌱 I’m currently learning **Laravel, symfony, react**
-
-- 📫 How to reach me **mionjaranaivoarison@gmail.com**
 
 
 <br/>
@@ -59,8 +53,4 @@
   
   
   </th>
-
-      
- 
-       
 
