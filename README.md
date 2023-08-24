@@ -2,17 +2,17 @@
 <p align="center">  
   <img src="https://user-images.githubusercontent.com/105538414/199022955-7a7a7e87-b31b-4b04-8354-0d235110fe82.gif" alt="Mi" />
 </p>
+<h3 align="center">Curious and passionate learner, tech enthusiast, always seeking knowledge.</h3>
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/Mionja/count.svg" />
 </p>
-
-<h3 align="center">Curious and passionate learner, tech enthusiast, always seeking knowledge.</h3>
 <p align="center"> 
   <a href="https://mio-portfolio.vercel.app/">
     <img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Mionja portfolio" />
   </a>
 </p>
+
 <br/>
 <p align="center"> 
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Mionja&theme=github-green-purple&hide_border=true" alt="mystreak"/>
