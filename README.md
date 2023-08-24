@@ -9,7 +9,7 @@
 
 <h3 align="center">Curious and passionate learner, tech enthusiast, always seeking knowledge.</h3>
 <p align="center"> 
-  <a href="https://mio-portfolio.vercel.app/"  target="_blank">
+  <a href="https://mio-portfolio.vercel.app/">
     <img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Mionja portfolio" />
   </a>
 </p>
