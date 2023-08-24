@@ -15,7 +15,7 @@
 </p>
 <br/>
 <p align="center"> 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mionja&theme=tokyonight" alt="mystreak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Mionja&theme=github-green-purple&hide_border=true" alt="mystreak"/>
 </p>
 <br/>
 <h3 align="center">Languages and Tools:</h3>
