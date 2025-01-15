@@ -12,8 +12,8 @@
     <img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Mionja portfolio" />
   </a>
 </p>
+<!-- <br/> -->
 <h3 align="center">Languages and Tools:</h3>
-<br/>
 <h5 align="left">Front End:</h3>
   <th>
   <p align="center">
