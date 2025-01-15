@@ -12,6 +12,13 @@
     <img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Mionja portfolio" />
   </a>
 </p>
+
+
+<div align="center">
+ <img src="https://github-readme-streak-stats.herokuapp.com?user=mionja&theme=tokyonight_duo&hide_border=true" />
+</div>
+
+
 <!-- <br/> -->
 <h3 align="center">Languages and Tools:</h3>
 <h5 align="left">Front End:</h3>
